@@ -1,0 +1,95 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+    
+}
+.p1{
+    color: rgb(245, 11, 108);
+}
+
+p{
+    color: dimgray;
+}
+
+.text{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.text img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("image/developer-portfolio/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+    float: left;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(243, 146, 162), rgb(238, 14, 51)) ;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.top-banner2{
+    background-image: url("image/developer-portfolio/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(247, 176, 118),rgb(250, 38, 10)) ;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    
+}
+.color{
+    color: rgb(245, 11, 108);
+}
+.size{
+    font-size: 35px;
+}
+.experience{
+    background-image: url("image/developer-portfolio/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan) ;
+    border-image-slice: 1;
+    
+}
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(247, 176, 118),rgb(250, 38, 10)) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
